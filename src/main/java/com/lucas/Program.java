@@ -1,6 +1,5 @@
 package com.lucas;
 
-import com.lucas.boardgame.Board;
 import com.lucas.chess.ChessMatch;
 
 public class Program {
