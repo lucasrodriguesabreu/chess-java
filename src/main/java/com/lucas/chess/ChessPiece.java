@@ -3,7 +3,7 @@ package com.lucas.chess;
 import com.lucas.boardgame.Board;
 import com.lucas.boardgame.Piece;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
     private Color color;
 
     public ChessPiece(Board board, Color color) {
